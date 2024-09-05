@@ -1,4 +1,3 @@
-
 class Solution {
     public int pivotIndex(int[] arr) {
        int arr1[]=new int[arr.length];
